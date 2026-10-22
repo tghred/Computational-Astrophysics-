@@ -77,7 +77,7 @@ I build data pipelines for complex scientific datasets and create educational ST
 
 *   [LinkedIn](https://www.linkedin.com/in/taghredsalah199)
 *   [Kaggle](https://www.kaggle.com/taghredsalah199)
-*   
+
 
 ---
 *Disclaimer: This repository is for educational purposes and is not affiliated with the authors or publishers of "An Introduction to Modern Astrophysics".*
