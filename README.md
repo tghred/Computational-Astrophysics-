@@ -75,10 +75,12 @@ Taghred Salah
 Computer Engineer & Data Scientist
 I build data pipelines for complex scientific datasets and create educational STEM content (Sarmady Sci). My goal is to make astrophysics accessible, visual, and computational.
 
-· LinkedIn
-· Kaggle
-· GitHub
+*   [LinkedIn](https://www.linkedin.com/in/taghredsalah199)
+*   [Kaggle](https://www.kaggle.com/taghredsalah199)
+*   
 
+---
+*Disclaimer: This repository is for educational purposes and is not affiliated with the authors or publishers of "An Introduction to Modern Astrophysics".*
 ---
 
 Disclaimer: This repository is for educational purposes and is not affiliated with the authors or publishers of "An Introduction to Modern Astrophysics".
